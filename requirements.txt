@@ -98,7 +98,7 @@ sphinxcontrib-websupport==1.0.1
 spyder==3.2.4
 statsmodels==0.8.0
 tables==3.4.2
-tensorflow==1.4.0
+tensorflow==2.7.2
 tensorflow-gpu==1.4.0
 tensorflow-tensorboard==0.4.0rc3
 testpath==0.3.1
